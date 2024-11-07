@@ -11,4 +11,3 @@ This repository contains a comprehensive Python framework for simulating quantum
 - **Quantum Algorithms**: Includes implementations of algorithms like quantum teleportation, superdense coding, and more.
 - **Utility Functions**: Helper functions for generating states, measuring qubits, etc.
 
-## Installation
